@@ -1,6 +1,6 @@
 # Doctor-Assistant UI
 
-This repository contains a UI interface to interact with the server from this [repository](https://github.com/RishabD/DoctorAssistant).
+This repository contains a UI interface to interact with the server from this [repository](https://github.com/RishabD/Doctor-Assistant).
 
 ## Setup
 
